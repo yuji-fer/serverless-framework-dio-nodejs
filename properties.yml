@@ -1,0 +1,2 @@
+region: ${region}
+dynamoDBResource: arn:aws:dynamodb:${region}:${account_number}:table/
